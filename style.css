@@ -25,13 +25,27 @@
 }
  body{
     margin: 0;
+    background-color: rgb(224, 224, 217, 0.804);
    
 }
 .heading{
     padding: 10px;
-    height:800px;
-    width:1000px;
-    background-color: rgb(248, 248, 242);
+    height:850px;
+    width:800px;
+    background-color:white;
     margin: 150px;
+    
+}
+.reg{
+    padding: 10px;
+    height:600px;
+    width:800px;
+    background-color:white;
+    margin: 150px;
+}
+.table{
+    margin:0;
+    width:50%;
+    padding: 10px;
     
 }
