@@ -49,3 +49,13 @@
     padding: 10px;
     
 }
+.buttons{
+    width:96%;
+    height:30px;
+    color:white;
+    background-color: black;
+}
+
+.buttons:active{
+    opacity:0.6;
+}
